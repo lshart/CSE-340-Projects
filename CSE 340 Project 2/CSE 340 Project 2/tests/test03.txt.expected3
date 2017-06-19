@@ -1,0 +1,6 @@
+FOLLOW(u) = { $ }
+FOLLOW(v) = { B }
+FOLLOW(w) = { C, D, M }
+FOLLOW(x) = { F }
+FOLLOW(y) = { F, G, H, I, J, K, L, Q }
+FOLLOW(z) = { C, D, M }

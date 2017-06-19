@@ -1,0 +1,8 @@
+VAR
+   d,e,f,g,h,i,j,k : w;
+   a, b, c, z, x, y : w;
+{
+   d = e - f * g * i + h * k + 1;
+   a = (b + y)*(b -y)+((z*x*y)*y+(a - b +1.0));
+}
+

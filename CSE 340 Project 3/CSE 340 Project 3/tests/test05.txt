@@ -1,0 +1,30 @@
+TYPE
+   dw : INT;
+   ew : dw;
+   fw : gw;
+   hw : BOOLEAN;
+   iw : STRING;
+   jw : REAL;
+
+ VAR  
+   dy : dw;   ey : ew;   fy : fw;   hy : hw;   iy : iw;   jy : jw;
+   ky : w1;   ly : w1;   my : w2;   ny : w2;   oy : w3;
+
+ {
+    dy = 1;
+    ey = dy + oy;
+    WHILE my < ly
+    {
+       dy = dy+1;
+    }
+
+    WHILE my
+    {
+       dy = dy+1;
+    }
+
+    ey = dy;
+    fy = 1.0;
+    py = qy;
+ }
+

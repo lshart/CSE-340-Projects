@@ -1,0 +1,5 @@
+INT : dw ew w3 dy ey oy #
+REAL : fw jw gw fy jy #
+STRING : iw iy #
+BOOLEAN : hw w1 w2 hy ky ly my ny #
+py : qy #

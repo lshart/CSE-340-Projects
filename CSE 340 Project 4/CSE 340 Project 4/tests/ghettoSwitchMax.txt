@@ -1,0 +1,52 @@
+y, j, k, l, h, i;
+{
+y = 1;
+j = 2;
+k = 3;
+l = 4;
+h = 8;
+i = 9;
+
+SWITCH j 
+{
+CASE 0:
+	{
+	print i;
+	}
+CASE 1:
+	{
+	print j;
+	}
+CASE 2:
+	{
+		print k;
+		j = 3;
+		WHILE j < 4
+		{
+			j = j +1;
+		}
+	
+		SWITCH j
+		{
+			CASE 8:
+			{
+			print h;
+			}
+			DEFAULT:
+			{
+			print i;
+			}
+		}
+		print j;
+	}
+CASE 3:
+	{
+	print l;
+	}
+}
+IF i > j
+{
+print h;
+}
+print y;
+}

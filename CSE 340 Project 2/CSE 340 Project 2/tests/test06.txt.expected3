@@ -1,0 +1,5 @@
+FOLLOW(s) = { $ }
+FOLLOW(b) = { X }
+FOLLOW(c) = { T, U }
+FOLLOW(d) = { S, V, X }
+FOLLOW(e) = { X }

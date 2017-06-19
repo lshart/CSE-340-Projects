@@ -1,0 +1,6 @@
+FIRST(u) = { A }
+FIRST(v) = { E }
+FIRST(w) = { M }
+FIRST(x) = { M, N, O }
+FIRST(y) = { M, N, O }
+FIRST(z) = { M }

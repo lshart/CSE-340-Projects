@@ -1,0 +1,2 @@
+FOLLOW(S) = { $ }
+FOLLOW(A) = { $ }

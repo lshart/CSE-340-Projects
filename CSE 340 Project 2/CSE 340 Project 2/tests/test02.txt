@@ -1,0 +1,12 @@
+expr term factor #
+expr -> term PLUS expr #
+expr -> term MINUS expr #
+expr -> term #
+term -> factor MULT term #
+term -> factor DIV term #
+term -> factor #
+factor -> LPAREN expr RPAREN #
+factor -> NUM # factor -> REALNUM # ##
+
+Anything after double hash should be ignored
+

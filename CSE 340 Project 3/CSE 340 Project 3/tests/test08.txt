@@ -1,0 +1,12 @@
+TYPE
+
+dw : ew;
+fw, gw, hw, dw : INT;
+
+VAR
+ d : dw;
+ 
+{
+   a = 10;
+}
+

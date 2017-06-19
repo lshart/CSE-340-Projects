@@ -1,0 +1,8 @@
+{
+  SWITCH x
+  {
+    CASE 2: { a = x + b; }
+    CASE 5: { WHILE b > c { q = q * 1.2; } }
+  }
+}
+

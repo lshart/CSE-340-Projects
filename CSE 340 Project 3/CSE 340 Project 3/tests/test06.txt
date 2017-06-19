@@ -1,0 +1,8 @@
+VAR
+    l : INT;
+    m : STRING;
+    p, l, n : INT;
+{
+  p = 10;
+}
+

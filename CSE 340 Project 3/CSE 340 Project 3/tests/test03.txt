@@ -1,0 +1,7 @@
+VAR
+  d : INT;
+  e : REAL;
+{ 
+   d = e;
+}
+

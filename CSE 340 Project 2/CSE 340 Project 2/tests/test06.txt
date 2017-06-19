@@ -1,0 +1,20 @@
+s b c d e #
+
+s -> Z
+b
+X #
+
+b -> #
+
+b -> W c
+     U d V
+     d #
+
+b -> Y c
+     T e #
+
+c -> P  #
+d -> Q   #
+d -> R    #
+e -> d     #
+e -> d S e  #         ##

@@ -1,0 +1,5 @@
+FIRST(s) = { Z }
+FIRST(b) = { #, W, Y }
+FIRST(c) = { P }
+FIRST(d) = { Q, R }
+FIRST(e) = { Q, R }

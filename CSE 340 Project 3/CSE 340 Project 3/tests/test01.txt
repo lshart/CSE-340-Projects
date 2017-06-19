@@ -1,0 +1,19 @@
+ {  
+    DO
+    {
+       a = a + 1;
+       SWITCH d
+       {
+          CASE 5:
+          {
+             b = a * 2;
+          }
+          CASE 3:
+          {
+             b = a / 2;
+          }
+       }
+    }
+    WHILE a < c;
+ }
+

@@ -1,0 +1,3 @@
+FIRST(expr) = { LPAREN, NUM, REALNUM }
+FIRST(term) = { LPAREN, NUM, REALNUM }
+FIRST(factor) = { LPAREN, NUM, REALNUM }

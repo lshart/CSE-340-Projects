@@ -1,0 +1,32 @@
+i, j;
+{
+i = 1;
+j = 7;
+
+
+SWITCH j
+{
+CASE 8:
+	{
+	print j;
+	}
+CASE 9:
+	{
+	print i;
+	}
+CASE 10:
+	{
+	print j;
+	}
+CASE 11:
+	{
+	i = i + 1;
+	}
+DEFAULT:
+	{
+	j = j + j;
+	print j;
+	}
+}
+print i;
+}

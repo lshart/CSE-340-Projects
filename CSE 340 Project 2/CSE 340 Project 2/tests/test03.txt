@@ -1,0 +1,26 @@
+u v w
+x y z #
+
+u -> A v B w C #
+u -> A v B w D w C #
+
+v -> E x F #
+
+x -> y G y #
+x -> y H y #
+x -> y I y #
+x -> y J y #
+x -> y K y #
+x -> y L y #
+
+y -> M #
+y -> N #
+y -> O #
+
+w -> w z #
+w -> z #
+
+z -> M G P y Q #
+
+##
+

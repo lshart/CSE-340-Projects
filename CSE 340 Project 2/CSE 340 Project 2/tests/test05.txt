@@ -1,0 +1,13 @@
+decl
+idList1
+idList #
+
+decl -> idList COLON ID #
+
+idList -> ID idList1 #
+
+idList1 -> COMMA ID idList1 #
+
+idList1 -> #
+
+##

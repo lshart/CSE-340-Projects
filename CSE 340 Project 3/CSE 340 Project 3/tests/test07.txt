@@ -1,0 +1,8 @@
+
+TYPE
+  pblqw : INT;
+
+VAR  pblqw : INT;
+
+  { a = 0.0; }
+

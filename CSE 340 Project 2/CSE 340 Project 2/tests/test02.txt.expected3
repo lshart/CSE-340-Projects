@@ -1,0 +1,3 @@
+FOLLOW(expr) = { $, RPAREN }
+FOLLOW(term) = { $, MINUS, PLUS, RPAREN }
+FOLLOW(factor) = { $, DIV, MINUS, MULT, PLUS, RPAREN }
